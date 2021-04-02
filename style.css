@@ -25,9 +25,8 @@ p#featured_property {
   text-align: center;
 }
 #details {
-
+  display: block;
 }
 div#details {
   float: left;
-  display: block;
 }
