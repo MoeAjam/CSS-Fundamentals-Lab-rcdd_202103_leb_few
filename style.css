@@ -28,7 +28,3 @@ p#featured_property {
   display: block;
   background-color: red;
 }
-#details {
-  float: left;
-  background-color: red;
-}
