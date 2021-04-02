@@ -26,6 +26,7 @@ p#featured_property {
 }
 #details {
   display: block;
+  background-color: red;
 }
 div#details {
   float: left;
